@@ -229,3 +229,9 @@ xxxxxxxxxxxxxxxxxxx B
 ## Running program
 ### Visual Studio
 Download repository and just run **Local Windows Debugger**. Program will ask for file location etc.
+
+## Resources
+* https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+* https://en.wikipedia.org/wiki/A*_search_algorithm
+* https://en.wikipedia.org/wiki/Depth-first_search
+* https://en.wikipedia.org/wiki/Breadth-first_search
